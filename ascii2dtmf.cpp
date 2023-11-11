@@ -1,6 +1,6 @@
 #include "ascii2dtmf.h"
 
-YourLibraryName::YourLibraryName() {
+ascii2dtmf::ascii2dtmf() {
     // Konstruktor (falls benötigt)
 }
 
