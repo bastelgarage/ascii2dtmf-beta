@@ -43,11 +43,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Tags
 `Arduino`
-DTMF
-ASCII
-Data Transmission
-Wireless Communication
-Audio Signal Processing
-Arduino Library
-Encoding
-Decoding
+`DTMF`
+`ASCII`
+`Data Transmission`
+`Wireless Communication`
+`Audio Signal Processing`
+`Arduino Library`
+`Encoding`
+`Decoding`
