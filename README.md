@@ -1,5 +1,8 @@
 
-# DTMF ASCII Encoder / Decoder for Arduino
+# DTMF ASCII Encoder / Decoder for Arduino (Beta)
+
+
+> :warning: This project is in the beta phase and has not yet been fully completed.
 
 Overview
 This Arduino project facilitates the encoding and decoding of the entire ASCII table (256 characters) into DTMF (Dual-Tone Multi-Frequency) tones. It's ideal for wireless or audio-based data transmission where using the DTMF system is required or preferred.
