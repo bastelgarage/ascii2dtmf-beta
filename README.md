@@ -19,7 +19,7 @@ The second tone is determined by the remainder (modulo) of dividing the ASCII va
 ## Installation
 Clone the repository and import the library into your Arduino IDE.
 
-```git clone https://github.com/bastelgarage/ascii2dmtf.git```
+```git clone https://github.com/bastelgarage/ascii2dtmf.git```
 
 ## Example
 A simple example of how to encode an ASCII character and then decode it:
