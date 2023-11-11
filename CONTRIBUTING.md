@@ -9,6 +9,7 @@ We appreciate your interest in contributing to the `ascii2dtmf` library! If you 
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
 
 git clone https://github.com/your-username/ascii2dtmf.git
+
 cd ascii2dtmf
 
 
